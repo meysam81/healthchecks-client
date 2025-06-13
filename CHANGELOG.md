@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/meysam81/healthchecks-client/compare/v1.1.5...v1.1.6) (2025-06-13)
+
+
+### Bug Fixes
+
+* **CI:** build docker first ([f79e8ba](https://github.com/meysam81/healthchecks-client/commit/f79e8ba3d2f42743e340ca6e6f559b34da78decc))
+
 ## [1.1.5](https://github.com/meysam81/healthchecks-client/compare/v1.1.4...v1.1.5) (2025-06-13)
 
 
