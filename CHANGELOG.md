@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.7](https://github.com/meysam81/healthchecks-client/compare/v1.1.6...v1.1.7) (2025-06-13)
+
+
+### Bug Fixes
+
+* reduce the character count :) ([e16cf38](https://github.com/meysam81/healthchecks-client/commit/e16cf3891dc5f665d2b1f7b5caa588cbcdf1d98f))
+* remove dockerfile for goreleaser ([67ea92d](https://github.com/meysam81/healthchecks-client/commit/67ea92dc5158e2d4a0c49872da36fb39bf79e48c))
+
 ## [1.1.6](https://github.com/meysam81/healthchecks-client/compare/v1.1.5...v1.1.6) (2025-06-13)
 
 
