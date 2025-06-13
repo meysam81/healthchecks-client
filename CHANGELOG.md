@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/meysam81/healthchecks-client/compare/v1.1.3...v1.1.4) (2025-06-13)
+
+
+### Bug Fixes
+
+* **CI:** create a dedicated dockerfile for goreleaser ([cc802b5](https://github.com/meysam81/healthchecks-client/commit/cc802b58b9326a987605a81938035a5df8fdc279))
+
 ## [1.1.3](https://github.com/meysam81/healthchecks-client/compare/v1.1.2...v1.1.3) (2025-06-13)
 
 
