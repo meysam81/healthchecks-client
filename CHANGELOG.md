@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/meysam81/healthchecks-client/compare/v1.1.2...v1.1.3) (2025-06-13)
+
+
+### Bug Fixes
+
+* perform keyless docker signing ([454cf74](https://github.com/meysam81/healthchecks-client/commit/454cf7498fc99daab041c00754a94b8f85627690))
+
 ## [1.1.2](https://github.com/meysam81/healthchecks-client/compare/v1.1.1...v1.1.2) (2025-06-13)
 
 
