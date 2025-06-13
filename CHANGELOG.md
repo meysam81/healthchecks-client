@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/meysam81/healthchecks-client/compare/v1.1.0...v1.1.1) (2025-06-13)
+
+
+### Bug Fixes
+
+* **build:** remove files ([e3a7d28](https://github.com/meysam81/healthchecks-client/commit/e3a7d28dac4ca3d491fc33ca27bc13d6de4d5d62))
+
 ## [1.1.0](https://github.com/meysam81/healthchecks-client/compare/v1.0.0...v1.1.0) (2025-06-13)
 
 
