@@ -3,7 +3,7 @@ module github.com/meysam81/healthchecks-client
 go 1.24.2
 
 require (
-	github.com/meysam81/x v1.8.1
+	github.com/meysam81/x v1.9.2
 	github.com/urfave/cli/v3 v3.3.8
 )
 
